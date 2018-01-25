@@ -27,17 +27,17 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 - [Google Login Api](https://developers.google.com/apis-explorer/#p/) - Google Login Api
 - [Facebook Login Api](https://developers.facebook.com/) - Facebook Login Api
 
-## Authors
+## Some Screenshots
 
-- Rahul Zore
-- Sanchit Chavan
-- Ankita Mhatre
-- Nikunj Singh
+![picture1](https://user-images.githubusercontent.com/32042786/35405741-2004fad4-01d5-11e8-89a1-a7a36297994e.png)
 
-## Acknowledgments
+![picture2](https://user-images.githubusercontent.com/32042786/35405747-25e8d72c-01d5-11e8-9706-9a48144ef63a.png)
 
-- Amuthan Arulraj - Professor (Web Design and User Experience, Northeastern University)
-- Pushkar Pilankar - TA for Web Design and User Experience course
-- Pranay - TA for Web Design and User Experience course
-- Shubhangi Lohote - TA for Web Design and User Experience course
+![picture3](https://user-images.githubusercontent.com/32042786/35405755-2c89afca-01d5-11e8-891b-118f894d790c.png)
+
+![picture4](https://user-images.githubusercontent.com/32042786/35405766-315008ba-01d5-11e8-911e-b219113592aa.png)
+
+![picture5](https://user-images.githubusercontent.com/32042786/35405833-3b942d2e-01d5-11e8-90c7-9e436720af12.png)
+
+![picture6](https://user-images.githubusercontent.com/32042786/35405843-40307c0c-01d5-11e8-9cd9-e4493ba3bf03.png)
 
